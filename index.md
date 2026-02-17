@@ -1,8 +1,3 @@
----
-layout: single
-author_profile: true
----
-
 # 👋 Hi, I'm Yucheng Wang (王煜诚)
 
 I am currently an **M.Sc. candidate in Digital Financial Technology** at the **National University of Singapore (NUS)**, specializing in the intersection of **Quantitative Finance, AI, and Blockchain**.
