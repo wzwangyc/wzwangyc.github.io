@@ -9,7 +9,7 @@ toc: true
 <div class="notice--info">
   <h4 class="no_toc">🚀 Download Full Resume</h4>
   <p>For a detailed PDF version, please click the button below:</p>
-  <a href="/assets/resume.pdf" class="btn btn--primary btn--large"><i class="fas fa-file-pdf"></i> Download PDF</a>
+  <a href="/assets/Yucheng_Wang_CV.pdf" class="btn btn--primary btn--large"><i class="fas fa-file-pdf"></i> Download PDF</a>
 </div>
 
 ## 🎓 Education
