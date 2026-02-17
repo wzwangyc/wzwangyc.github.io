@@ -13,7 +13,7 @@ My passion lies in using **Algorithms** to decode financial markets and **Music*
 <div style="display: flex; gap: 10px;">
   <a href="mailto:wzwangyc@163.com" class="btn btn--primary"><i class="fas fa-envelope"></i> Email Me</a>
   <a href="https://github.com/wzwangyc" class="btn btn--info"><i class="fab fa-github"></i> GitHub</a>
-  <a href="/assets/resume.pdf" class="btn btn--success"><i class="fas fa-file-alt"></i> Download CV</a>
+  <a href="/assets/Yucheng_Wang_CV.pdf" class="btn btn--success"><i class="fas fa-file-alt"></i> Download CV</a>
 </div>
 
 ---
